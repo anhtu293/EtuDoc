@@ -1,5 +1,8 @@
 # Projet de NA17 : Système de gestion de documents
-
+### - Anh Tu Nguyen 
+### - Alexandre Brasseur 
+### - Kyllian Chartrain
+### - Camille Beaudou
 ### P5 - Application
 Les fichiers se trouvent dans le dossier `app` et s'organisent en architecture **MVC** (_Models_ Views Controllers) (pas de Models en réalité).
 
